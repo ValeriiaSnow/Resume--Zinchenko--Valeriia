@@ -53,14 +53,6 @@ body{
     width: 400px;
 }
 
-/* project styles + зовнішні відступи*/
-    /* margin-top: 100px;
-    margin-bottom: 300px;
-    margin-left: 60px;
-    margin-left: 90px;
-    margin: 100px 90px 300px 60px;
-    margin: 50px; всі сторони однакові
-    margin: 100px 50px; перша-зверху і знизу, друга-зліва і справа*/
 .projects{
     margin-bottom: 50px;
 }
@@ -96,6 +88,15 @@ body{
 }
 
 .project-link{
+    margin-left: 10px;
+}
+
+.project-name{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
     margin-left: 10px;
 }
 
@@ -199,7 +200,7 @@ body{
 /* photo */
 .photo{
     width: 370px;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
 }
 
 .contacts, .tech-skills, .soft-skills, .lang-skills{
