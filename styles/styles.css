@@ -211,6 +211,16 @@ body{
     margin-bottom: 50px;
 }
 
+.tel_list, .contact_list{
+    list-style: none;
+    gap: 5px;
+}
+
+.contact_list{
+    padding-left: 0;
+    margin: 0;
+}
+
 .tech-skills{
     margin-bottom: 45px
 }
